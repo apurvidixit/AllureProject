@@ -1,0 +1,2 @@
+# AllureProject
+Allure Report Implementation
